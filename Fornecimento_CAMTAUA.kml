@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+    <Placemark>
+        <name>Patrícia Ribeiro Dias</name>
+        <Point>
+            <coordinates>-48.19352722,-1.086944460999973,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Aldineia Conceição Lopes</name>
+        <Point>
+            <coordinates>-48.19363784,-1.087499976,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Veroneide Soares Ribeiro</name>
+        <Point>
+            <coordinates>-48.19316482,-1.086777805999986,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Manoel Raimundo da Silva</name>
+        <Point>
+            <coordinates>-48.19166564,-1.088444471,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Ilson Manoel de Souza Filho</name>
+        <Point>
+            <coordinates>-48.19333267,-1.08780551000001,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Genilson dos Anjos</name>
+        <Point>
+            <coordinates>-48.19641494,-1.084416627999985,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>José Wilson da Silva Sousa</name>
+        <Point>
+            <coordinates>-48.1923943,-1.088067572999989,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Lucivaldo Piedade da Conceição</name>
+        <Point>
+            <coordinates>-48.192069,-1.0874819,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Geroncio Pires da Silva</name>
+        <Point>
+            <coordinates>-48.19362368,-1.090299416999983,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Emerson Silva da Silva</name>
+        <Point>
+            <coordinates>-48.19141769,-1.08866667699999,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Elicio Santos da Silva</name>
+        <Point>
+            <coordinates>-48.2427482,-1.020750045999989,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Valdenes Ferreira de Souza</name>
+        <Point>
+            <coordinates>-48.24269065,-1.020571104999988,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Eliete dos Santos Rosario</name>
+        <Point>
+            <coordinates>-48.241627,-1.02570470000001,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Valdinete de Sousa</name>
+        <Point>
+            <coordinates>-48.24039077,-1.03024995300001,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Manoel da Vera Cruz Quadros</name>
+        <Point>
+            <coordinates>-48.22636032,-1.024083376000021,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Benigna Soares Ferreira</name>
+        <Point>
+            <coordinates>-48.22902679,-1.023888946,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Valdek Ferreira de Souza</name>
+        <Point>
+            <coordinates>-48.243211,-1.021163399999978,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Carlos Roberto Melo da Silva</name>
+        <Point>
+            <coordinates>-48.20402908,-1.034999966999976,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Ivanildo Melo da Silva</name>
+        <Point>
+            <coordinates>-48.205987,-1.0378493,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Gilson Santana Borralhos</name>
+        <Point>
+            <coordinates>-48.203582,-1.0346323,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Gicelia Santana Borralhos</name>
+        <Point>
+            <coordinates>-48.204599,-1.037522500000023,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Marina Borralhos de Miranda</name>
+        <Point>
+            <coordinates>-48.204246,-1.040516299999979,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Rafael Santana Bastos</name>
+        <Point>
+            <coordinates>-48.20330429,-1.035805583000013,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Joelson da Silva Borralhos</name>
+        <Point>
+            <coordinates>-48.20472335,-1.034027815,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Luzia Souza Danasceno</name>
+        <Point>
+            <coordinates>-48.20408248,-1.034611106,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Roseane de Azevedo Correa</name>
+        <Point>
+            <coordinates>-48.204311,-1.038113899999985,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Jorgete Santana Borralhos</name>
+        <Point>
+            <coordinates>-48.20474,-1.036359300000015,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Manoel Raimundo Ferreira da Conceição </name>
+        <Point>
+            <coordinates>-48.20079098,-1.032177194999974,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Inacio Borralhos de Miranda</name>
+        <Point>
+            <coordinates>-48.206791,-1.037871900000027,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Irandir Dias Cardoso</name>
+        <Point>
+            <coordinates>-48.20391845,-1.038138866,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Vilson Miranda Monteiro</name>
+        <Point>
+            <coordinates>-48.20399856,-1.03808331499999,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Maria Lolita Ramos Dias</name>
+        <Point>
+            <coordinates>-48.20541763,-1.036305546999984,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Angela Maria da Silva Monteiro</name>
+        <Point>
+            <coordinates>-48.204622,-1.0355136,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Marta Ramos da Silva</name>
+        <Point>
+            <coordinates>-48.20598,-1.036626000000012,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Josilene Borralhos Costa</name>
+        <Point>
+            <coordinates>-48.20482126,-1.03583264700001,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Sonia Maria da Silva Pereira</name>
+        <Point>
+            <coordinates>-48.25502777,-1.089722275999975,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Raimundo Nonato da Silva Pereira</name>
+        <Point>
+            <coordinates>-48.25455474,-1.08908331399999,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Antonio dos Santos ferreira</name>
+        <Point>
+            <coordinates>-48.2553596,-1.05608332200001,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Carlos Alberto Barata Barbosa</name>
+        <Point>
+            <coordinates>-48.25527954,-1.089833379000027,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Lucielza Soares Barbosa</name>
+        <Point>
+            <coordinates>-48.25522232,-1.08969450000001,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Maximino da Conceição Correa</name>
+        <Point>
+            <coordinates>-48.2472,-1.0760803,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Maridalva da Silva Lopes</name>
+        <Point>
+            <coordinates>-48.19491577,-1.085749984000017,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Dorivaldo Sousa da Conceição</name>
+        <Point>
+            <coordinates>-48.1943294,-1.086648267999976,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Márcia Renêe Lopes da Penha</name>
+        <Point>
+            <coordinates>-48.19257265,-1.085553186000027,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Katiele Ramos da Silva</name>
+        <Point>
+            <coordinates>-48.20576029,-1.035451783999974,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Raimundo Nonato Carvalho de Matos</name>
+        <Point>
+            <coordinates>-48.192825,-1.027634400000011,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Maria de Fátima Sousa Damasceno</name>
+        <Point>
+            <coordinates>-48.18141555,-1.052228332000027,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Izaura Damaceno Rodrigues</name>
+        <Point>
+            <coordinates>-48.181399,-1.052481199999988,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Luiz Lopes Rufino</name>
+        <Point>
+            <coordinates>-48.192484,-1.08606020000002,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Olson Manoel de Sousa Filho</name>
+        <Point>
+            <coordinates>-48.19396972,-1.088288307000028,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Elias Ferreira de Oliveira</name>
+        <Point>
+            <coordinates>-48.23538239,-0.9086948180000148,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Carlos Evandro da Silva</name>
+        <Point>
+            <coordinates>-48.21725463,-0.9560744760000262,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Valdenete de Souza Santana </name>
+        <Point>
+            <coordinates>-48.12077674,-1.153873069999975,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Francisco de Assis Silva dos Reis</name>
+        <Point>
+            <coordinates>-48.035501,-0.948579499999994,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Manoel Jucelino da Silva Pinheiro</name>
+        <Point>
+            <coordinates>-48.19244,-1.092518400000017,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Irene de oliveira monteiro</name>
+        <Point>
+            <coordinates>-48.18473,-1.032865000000015,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Delma Cardoso pereira</name>
+        <Point>
+            <coordinates>-48.1809,-1.040165,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Aldocindo Cardoso Pereira</name>
+        <Point>
+            <coordinates>-48.18,-1.039301667000018,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>PAULO SERGIO DOS REIS BATISTA</name>
+        <Point>
+            <coordinates>-48.20599,-1.035913333,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Palmira Cardoso de Souza</name>
+        <Point>
+            <coordinates>-48.28781833,-1.021028333,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Rosinele Belém Neves</name>
+        <Point>
+            <coordinates>-48.18096833,-1.040894999999978,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Benedita Costa de Sousa</name>
+        <Point>
+            <coordinates>-48.18088333,-1.040393333,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Aloisio Dias Cardoso</name>
+        <Point>
+            <coordinates>-48.18098666,-1.03906499999999,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Raimundo da Costa Pereira</name>
+        <Point>
+            <coordinates>-48.20644666,-1.036735000000022,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Marinaldo Leal da Silva</name>
+        <Point>
+            <coordinates>-48.19296053,-1.091015129000027,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Raiça de Souza de Sousa</name>
+        <Point>
+            <coordinates>-48.18118739,-1.055267528,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Rodrigo Aguiar dos Santos</name>
+        <Point>
+            <coordinates>-48.19281167,-1.091267383,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Patrícia da Silva Lopes</name>
+        <Point>
+            <coordinates>-48.1922249,-1.090350151,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Carlos Pantoja da Cruz</name>
+        <Point>
+            <coordinates>-48.25715459,-1.09156246800001,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Luiz Carlos Miranda Barbosa</name>
+        <Point>
+            <coordinates>-48.2646054,-1.08033763200001,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Jeova dos Santos Oliveira</name>
+        <Point>
+            <coordinates>-48.19340687,-1.086880337000025,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Manoel Marcelino Barbosa da Silva</name>
+        <Point>
+            <coordinates>-48.19260698,-1.090825321000011,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Robert Monteiro</name>
+        <Point>
+            <coordinates>-48.19967754,-1.030515055000023,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Tadeu Reis da Cruz</name>
+        <Point>
+            <coordinates>-48.25777033,-1.092479950999973,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Valeria Reis da Cruz</name>
+        <Point>
+            <coordinates>-48.26428508,-1.080566249000015,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Jonas Miranda Ferreira</name>
+        <Point>
+            <coordinates>-48.26469194,-1.08004300900001,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Maria Leude Coutinho Cambraia</name>
+        <Point>
+            <coordinates>-48.2640973,-1.080737390000024,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Enilso Freitas dos Santos</name>
+        <Point>
+            <coordinates>-48.24733729,-1.076430534,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Geovane Rodrigues da Cruz</name>
+        <Point>
+            <coordinates>-48.2576232,-1.08996864,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Robson Luis Borralhos de Oliveira</name>
+        <Point>
+            <coordinates>-48.20383666,-1.034881666999979,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Valquiria Sousa Barbosa</name>
+        <Point>
+            <coordinates>-48.25284286,-1.0882403,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Risoleta Correa Sousa</name>
+        <Point>
+            <coordinates>-48.247888,-1.075990777000015,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Raimundo Soares Barbosa</name>
+        <Point>
+            <coordinates>-48.2562525,-1.087694820000024,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Domingos dos Santos</name>
+        <Point>
+            <coordinates>-48.2216628,-1.078443279999988,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>PEDRO PAULO DA SILVA</name>
+        <Point>
+            <coordinates>-48.20704666,-1.038226667,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>DIANE LEMOS DA SILVA PEREIRA</name>
+        <Point>
+            <coordinates>-48.20235,-1.02497,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Maria Mariana Silva Batista</name>
+        <Point>
+            <coordinates>-48.18250333,-1.034533333000013,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Robson Rocha Rocha</name>
+        <Point>
+            <coordinates>-48.1821,-1.035160000000019,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Marcos Antônio da Costa Castro</name>
+        <Point>
+            <coordinates>-48.18224833,-1.036898333000011,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Anderlei da Costa Melo</name>
+        <Point>
+            <coordinates>-48.18170166,-1.036713333000023,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Patricia Azevedo Donza</name>
+        <Point>
+            <coordinates>-48.24740904,-1.076553118999982,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>REGINALDO SILVA DA SILVA</name>
+        <Point>
+            <coordinates>-48.20577833,-1.020663333000016,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>JOSIEL ABRÃO AMIM</name>
+        <Point>
+            <coordinates>-48.2054,-1.02077166700002,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>EDIELSOM SOARES BORRALHOS</name>
+        <Point>
+            <coordinates>-48.19827833,-1.032069999999976,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>MIRIAN DA SILVA BARBOSA</name>
+        <Point>
+            <coordinates>-48.22805,-1.102919999999983,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>LILIANE CRISTINA BARBOSA LOPES</name>
+        <Point>
+            <coordinates>-48.22461,-1.10433,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Giovano da Silva Macedo</name>
+        <Point>
+            <coordinates>-48.20547899,-1.020123926,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Antonio Bentes dos Santos</name>
+        <Point>
+            <coordinates>-48.23636194,-1.077141152000024,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>José Luiz Barata Barbosa</name>
+        <Point>
+            <coordinates>-48.24779176,-1.08679475700001,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Mozaniel Adaias Oliveira Cardoso</name>
+        <Point>
+            <coordinates>-48.23193814,-1.073876652000024,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>IZANETE SILVA DE OLIVEIRA</name>
+        <Point>
+            <coordinates>-48.1978,-1.031906666999987,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>CATIAM BATISTA DIAS</name>
+        <Point>
+            <coordinates>-48.21953833,-1.081889999999987,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Alexandre Santos da Silva</name>
+        <Point>
+            <coordinates>-48.22410207,-1.08603678200001,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Wellyngton Felipe Dias Siqueira</name>
+        <Point>
+            <coordinates>-48.22040984,-1.082163421000018,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Manuel da Silva Ferreira</name>
+        <Point>
+            <coordinates>-48.23816858,-1.021489841,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Clezio de Azevedo Correa</name>
+        <Point>
+            <coordinates>-48.23314237,-1.075263312,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Josiel Barbosa da Conceição</name>
+        <Point>
+            <coordinates>-48.24730762,-1.08834746299999,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Jeferson Silva Barbosa</name>
+        <Point>
+            <coordinates>-48.24766586,-1.086794422000025,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Adreza Raiane Flores Muniz</name>
+        <Point>
+            <coordinates>-48.24775395,-1.08673365300001,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Aricy Correa Cardoso</name>
+        <Point>
+            <coordinates>-48.23202674,-1.073950579999973,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>ALUIZIO MONTEIRO PINHEIRO</name>
+        <Point>
+            <coordinates>-48.19205166,-1.088403332999974,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Diel Max Bandeira Dasmaceno</name>
+        <Point>
+            <coordinates>-48.18535144,-1.056110285999978,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Alex Oliveira Conceição </name>
+        <Point>
+            <coordinates>-48.18613506,-1.057891273,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Ocenildo Silva da Silva </name>
+        <Point>
+            <coordinates>-48.23013603,-1.03940963700001,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Alessandra da Silva Lopes</name>
+        <Point>
+            <coordinates>-48.22809445,-0.984434829999998,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Jeová Duarte Correa</name>
+        <Point>
+            <coordinates>-48.22596151,-0.9893390400000044,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Dielen dos Santos Brito</name>
+        <Point>
+            <coordinates>-48.22727554,-0.9859247969999956,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Artur Danilo da Silva Correa</name>
+        <Point>
+            <coordinates>-48.22594835,-0.9891852320000112,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Andreison Correa Santos</name>
+        <Point>
+            <coordinates>-48.2249095,-0.9928399930000182,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Douglas Fernando da Silva da Silva</name>
+        <Point>
+            <coordinates>-48.22348055,-0.9926723969999784,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Geovane Silva Pantoja</name>
+        <Point>
+            <coordinates>-48.221907,-0.9930700759999808,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Raimundo Pantoja Soares</name>
+        <Point>
+            <coordinates>-48.21275951,-0.995134706999977,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>João dos Santos Soares Pantoja</name>
+        <Point>
+            <coordinates>-48.21406826,-0.9966323429999876,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Carla Cristina Duarte Monteiro</name>
+        <Point>
+            <coordinates>-48.22721166,-0.984318332999976,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Maria da Conceição Sousa do Nasximemto</name>
+        <Point>
+            <coordinates>-48.22632333,-0.987688332999994,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Maria lucirene do Espirito Santo Pantoja</name>
+        <Point>
+            <coordinates>-48.22712666,-0.9865716670000212,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Dioleno da Silva Roldão</name>
+        <Point>
+            <coordinates>-48.2249,-0.9931349999999952,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Deyvison Henrique Corrêa Pereira</name>
+        <Point>
+            <coordinates>-48.22284666,-0.9938566669999886,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Daiane Corrêa </name>
+        <Point>
+            <coordinates>-48.2228,-0.9942266670000208,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Elielson Moraes Rodrigues</name>
+        <Point>
+            <coordinates>-48.22198333,-0.9953399999999988,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Ilton Barbosa Pantoja</name>
+        <Point>
+            <coordinates>-48.22089666,-0.9934949999999958,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Adilson Silva da Silva</name>
+        <Point>
+            <coordinates>-48.21195833,-0.9964683329999956,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Paulo Neves Roldão </name>
+        <Point>
+            <coordinates>-48.22490857,-0.9931652529999724,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Nataniele do Socorro da Silva Correa</name>
+        <Point>
+            <coordinates>-48.2230816,-0.9933664179999936,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Paulo Junior Silva Correa</name>
+        <Point>
+            <coordinates>-48.22306875,-0.9932867069999816,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Anilton da Silva Pantoja</name>
+        <Point>
+            <coordinates>-48.2220319,-0.9930004650000228,0</coordinates>
+        </Point>
+    </Placemark>
+    
+    <Placemark>
+        <name>Alfredo Nunes da Cunha</name>
+        <Point>
+            <coordinates>-48.21300837,-0.9952334870000072,0</coordinates>
+        </Point>
+    </Placemark>
+    
+</Document>
+</kml>
