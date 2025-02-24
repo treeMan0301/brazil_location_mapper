@@ -6,21 +6,19 @@ import * as csvWriter from "csv-writer";
 
 dotenv.config();
 
-// **API Key for OpenCageData**
 const API_KEY = "6844eefc83f549f08318652e3b5db338";
 if (!API_KEY) {
   console.error("❌ Missing OpenCageData API Key!");
   process.exit(1);
 }
 
-// **Input & Output Files**
 const INPUT_FILE = "Fornecimento_CAMTAUA.kml";
 const OUTPUT_FILE = "location_hierarchy.csv";
 
-// **CSV Writer Configuration**
 const csv = csvWriter.createObjectCsvWriter({
   path: OUTPUT_FILE,
   header: [
+    { id: "name", title: "Name" },
     { id: "latitude", title: "Latitude" },
     { id: "longitude", title: "Longitude" },
     { id: "postcode", title: "Postcode" },
@@ -32,7 +30,7 @@ const csv = csvWriter.createObjectCsvWriter({
     { id: "district_code", title: "District Code" },
     { id: "community", title: "Community" },
     { id: "community_code", title: "Community Code" },
-    { id: "address", title: "Address" }
+    { id: "address", title: "Address" },
   ],
 });
 
@@ -45,27 +43,30 @@ const generateShortCode = (name: string): string => {
 };
 
 // **Extract Coordinates from KML File**
-const extractCoordinatesFromKML = (): { latitude: string; longitude: string }[] => {
+const extractCoordinatesFromKML = (): { name: string; latitude: string; longitude: string }[] => {
   const data = fs.readFileSync(INPUT_FILE, "utf8");
   const parser = new XMLParser({ ignoreAttributes: false });
   const parsedData = parser.parse(data);
 
-  let coordinatesList: { latitude: string; longitude: string }[] = [];
+  let coordinatesList: { name: string; latitude: string; longitude: string }[] = [];
 
   if (parsedData.kml?.Document?.Placemark) {
     const placemarks = Array.isArray(parsedData.kml.Document.Placemark)
       ? parsedData.kml.Document.Placemark
       : [parsedData.kml.Document.Placemark];
 
-    coordinatesList = placemarks.map((placemark: any) => {
-      if (placemark.Point && placemark.Point.coordinates) {
-        const coords = placemark.Point.coordinates.trim().split(",");
-        return {
-          longitude: coords[0].trim(),
-          latitude: coords[1].trim(),
-        };
-      }
-    }).filter(Boolean);
+    coordinatesList = placemarks
+      .map((placemark: any) => {
+        if (placemark.Point && placemark.Point.coordinates) {
+          const coords = placemark.Point.coordinates.trim().split(",");
+          return {
+            name: placemark.name || "Unknown",
+            longitude: coords[0].trim(),
+            latitude: coords[1].trim(),
+          };
+        }
+      })
+      .filter(Boolean);
   }
 
   if (coordinatesList.length === 0) {
@@ -113,13 +114,14 @@ const processCoordinates = async () => {
     const coordinates = extractCoordinatesFromKML();
     let outputData: any[] = [];
 
-    for (const { latitude, longitude } of coordinates) {
-      console.log(`Processing: (${latitude}, ${longitude})`);
+    for (const { name, latitude, longitude } of coordinates) {
+      console.log(`🔄 Processing: ${name} (${latitude}, ${longitude})`);
 
       const locationData = await fetchLocationData(latitude, longitude);
       if (!locationData) continue;
 
       outputData.push({
+        name,
         latitude,
         longitude,
         ...locationData,
