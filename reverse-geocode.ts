@@ -32,6 +32,7 @@ const csv = csvWriter.createObjectCsvWriter({
     { id: "district_code", title: "District Code" },
     { id: "community", title: "Community" },
     { id: "community_code", title: "Community Code" },
+    { id: "address", title: "Address" }
   ],
 });
 
@@ -98,6 +99,7 @@ const fetchLocationData = async (latitude: string, longitude: string) => {
       district_code: generateShortCode(location.suburb || location.county || "Unknown"),
       community: location.hamlet || location.neighbourhood || "Unknown",
       community_code: generateShortCode(location.hamlet || location.neighbourhood || "Unknown"),
+      address: location.road || "Unknown",
     };
   } catch (error) {
     console.error(`❌ API Error for (${latitude}, ${longitude}):`, error);
